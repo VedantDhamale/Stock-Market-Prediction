@@ -63,9 +63,6 @@ The notebook provides a step-by-step process to:
 ## Contributing
 Feel free to contribute to the project by submitting a pull request or reporting issues.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any queries or suggestions, feel free to reach out at:
 - **GitHub**: [Vedant Dhamale](https://github.com/VedantDhamale)
